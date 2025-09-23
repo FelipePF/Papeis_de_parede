@@ -7,7 +7,7 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 ## 📂 Conteúdo
 - Wallpapers em **diferentes resoluções** e **categorias**.
 - Diversos temas como Animes, Linux, Games.
-- Formatos 16:9, 21:9 e mobile.
+- Formatos 16:9, 21:9, Icon e Mobile.
 - Todos os arquivos estão no formato **.jxl** (Lossless JPEG XL).  
 
 ---
