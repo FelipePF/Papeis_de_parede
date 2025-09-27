@@ -54,3 +54,23 @@ XnView MP (visualizador de imagens)
 IrfanView com plugin JPEG XL
 
 JPEG XL reference binaries: https://gitlab.com/wg1/jpeg-xl/-/releases
+
+### Android
+O Android não possui suporte nativo para .jxl, mas você pode usar aplicativos de terceiros para converter:  
+
+Termux:
+
+Baixe o Termux e coloque pelo explorador de arquivos a pasta com os wallpapers dentro, converta, e os novamente pelo explorador de arquivos, coloque de volta na pasta desejada as versões .png:
+
+```bash
+# Instala o suporte a .jxl
+pkg install jpeg-xl
+```
+```bash
+# converte uma imagem específica para .png
+djxl imagem.jxl imagem.png
+```
+
+JPEG XL & JXL Image Viewer: https://play.google.com/store/apps/details?id=jpeg.xl.jxl.image.viewer&hl=en-us
+
+Assim Converter as imagens para .JPG e utilizar normalmente.
