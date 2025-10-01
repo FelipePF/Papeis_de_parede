@@ -8,7 +8,8 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 - Wallpapers em **diferentes resoluções** e **categorias**.
 - Diversos temas como Animes, Linux, Games.
 - Formatos 16:9, 21:9, Icon e Mobile.
-- Todos os arquivos estão no formato **.jxl** (Lossless JPEG XL).  
+- Todos os arquivos estão no formato **.jxl** (Lossless JPEG XL). 
+- Algumas imagens originalmente tem muito blur, serrilhado ou resolução extremamente baixa, que seriam complicadas de serem usadas, neste caso, foi usado IA generativa para aumentar a resolução e melhorar a qualidade da imagem.
 
 ---
 
@@ -21,7 +22,7 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 ---
 
 ## 🛠️ Como abrir arquivos `.jxl`
-O ideal é poder ser aberto como uma imagem qualquer, ou seja, com "2 cliques", mas dependendo do seu sistema operacional ou médoto de instalação, pode ser necessário instalar suporte extra:
+O ideal é poder ser aberto como uma imagem qualquer, ou seja, com "2 cliques", mas dependendo do seu sistema operacional ou método de instalação, pode ser necessário instalar suporte extra:
 
 ### Linux
 ```bash
