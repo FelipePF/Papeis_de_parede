@@ -9,13 +9,13 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 - Diversos temas como Animes, Linux, Games.
 - Formatos 16:9, 21:9, Icon e Mobile.
 - Todos os arquivos estão no formato **.jxl** (Lossless JPEG XL). 
-- Algumas imagens originalmente tem muito blur, serrilhado ou resolução extremamente baixa, que seriam complicadas de serem usadas, neste caso, foi usado IA generativa para aumentar a resolução e melhorar a qualidade da imagem.
+- Algumas imagens originalmente tem muito blur, serrilhado ou resolução extremamente baixa, que seriam complicadas de serem usadas - acho que nenhuma pessoa curte usar wallpaper assim -, neste caso, foi usado IA generativa para aumentar a resolução e melhorar a qualidade da imagem.
 
 ---
 
 ## ❓ Por que JPEG XL?
 - 📉 **Melhor compressão** que JPEG comum.  
-- 🖼️ **Qualidade sem perdas** (lossless).  
+- 🖼️ **Qualidade sem perdas** (lossless), pode ser convertida para .png e utilizada para qualquer fim.  
 - ⚡ **Mais rápido e eficiente** para decodificação.  
 - 🌍 **Formato moderno e aberto**, com suporte crescente em navegadores e softwares.  
 
