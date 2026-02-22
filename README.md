@@ -6,10 +6,10 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 
 ## 📂 Conteúdo
 - Wallpapers em **diferentes resoluções** e **categorias**.
-- Diversos temas como Animes, Linux, Games.
-- Formatos 16:9, 21:9, Icon e Mobile.
+- Diversos temas como Animes, Linux, Games e mais.
+- Formatos 16:9, 21:9, Icon, 4:3 e Mobile.
 - Todos os arquivos estão no formato **.jxl** (Lossless JPEG XL). 
-- Algumas imagens originalmente tem muito blur, serrilhado ou resolução extremamente baixa, que seriam complicadas de serem usadas - acho que nenhuma pessoa curte usar wallpaper assim -, neste caso, foi usado IA generativa para aumentar a resolução e melhorar a qualidade da imagem.
+- Algumas imagens originalmente tem muito blur, serrilhado ou resolução extremamente baixa (pinterest quem o diga), que seriam complicadas de serem usadas (acho que nenhuma pessoa curte usar wallpaper assim) neste caso, foi usado IA generativa para aumentar a resolução e melhorar a qualidade da imagem, as imagens que foram usadas Upscaler por IA tem "upscaler" escrito no nome.
 
 ---
 
@@ -48,7 +48,7 @@ pkg install jpeg-xl
 ```
 
 ### Windows
-Suporte nativo limitado. Para abrir ou converter .jxl, use aplicativos como:
+Suporte nativo limitado, MAS o windows 11 oferece um pacote para adicionar o suporte de forma oficial, quando for abrir uma imagem jxl, ele vai deixar um link que leva direto para o pacote na microsoft store. Caso contrario, para abrir ou converter .jxl, use aplicativos como:
 
 XnView MP (visualizador de imagens)
 
