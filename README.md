@@ -39,6 +39,10 @@ OBS: Samples estão em .jpg para apresentar no github
 - ⚡ **Mais rápido e eficiente** para decodificação.  
 - 🌍 **Formato moderno e aberto**, com suporte crescente em navegadores e softwares.  
 
+## 🔞 Disclamer
+Este repositório contém wallpapers de diferentes estilos e temáticas, podendo incluir imagens com violência, símbolos ideológicos, conteúdos sensíveis ou elementos que podem ser considerados ofensivos por algumas pessoas. O material disponibilizado possui caráter meramente estético, artístico e de arquivamento, não representando necessariamente minhas opiniões, crenças ou posicionamentos pessoais. Não me responsabilizo pelo uso, interpretação ou finalidade atribuída a esses arquivos por terceiros.
+
+
 ---
 
 ## 🛠️ Como abrir arquivos `.jxl`
