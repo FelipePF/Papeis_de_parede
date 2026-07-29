@@ -42,6 +42,12 @@ OBS: Samples estão em .jpg para apresentar no github
 ## 🔞 Disclamer
 Este repositório contém wallpapers de diferentes estilos e temáticas, podendo incluir imagens com violência, símbolos ideológicos, conteúdos sensíveis ou elementos que podem ser considerados ofensivos por algumas pessoas. O material disponibilizado possui caráter meramente estético, artístico e de arquivamento, não representando necessariamente minhas opiniões, crenças ou posicionamentos pessoais. Não me responsabilizo pelo uso, interpretação ou finalidade atribuída a esses arquivos por terceiros.
 
+## Quer fazer um Pull?
+Wallpapers novos são bem-vindos, mas precisa se manter uma padronização de algumas coisa. Caso queira fazer isso, segue algumas coisas:
+
+1. Obrigatoriamente e obviamente envie em formato jxl.
+
+2. A organização de pastas não deve ser alterada,apenas pelos maintainers. Mas, caso você queria adicionar uma imagem que seja por exemplo, de uma série, e essa pasta não existe, pode criar a pasta com o nome da mesma para colocar a imagem. Apenas respeite o que (infelizmente) não se pode ter pasta com : (dois pontos) no nome por causa de usuários windows, use "-" por exemplo.
 
 ---
 
