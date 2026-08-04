@@ -14,7 +14,7 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 ---
 **Alguns samples da coleção**
 
-| Image | Image |
+|  |  |
 |-------|-------|
 | <img src="samples/jinwoo-solo-leveling-4k-wallpaper-uhdpaper.com-880@5@k.jpg" width="300"> | <img src="samples/1347881upscaler.jpg" width="300"> |
 | <img src="samples/98904035_p0upscaler.jpg" width="300"> | <img src="samples/reyayanamiconected.jpg" width="300"> |
@@ -62,6 +62,11 @@ sudo apt install libjxl-tools
 ```bash
 # Arch/Manjaro
 sudo pacman -S libjxl
+```
+
+```bash
+# GENTOO
+sudo emerge -a media-libs/libjxl
 ```
 
 ### MacOS
