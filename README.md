@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers Collection (JPEG XL)
 
-Este repositório contém minha coleção pessoal de **wallpapers em alta qualidade** no formato **JPEG XL (JXL)**, garantindo compressão eficiente sem perdas de qualidade.
+Este repositório contém uma coleção de **wallpapers em alta qualidade** no formato **JPEG XL (JXL)**, garantindo compressão eficiente sem perdas de qualidade.
 
 ---
 
@@ -16,19 +16,19 @@ Este repositório contém minha coleção pessoal de **wallpapers em alta qualid
 
 |  |  |
 |-------|-------|
-| <img src="samples/jinwoo-solo-leveling-4k-wallpaper-uhdpaper.com-880@5@k.jpg" width="300"> | <img src="samples/1347881upscaler.jpg" width="300"> |
-| <img src="samples/98904035_p0upscaler.jpg" width="300"> | <img src="samples/reyayanamiconected.jpg" width="300"> |
-| <img src="samples/kali-tiles-purple.jpg" width="300"> | <img src="samples/CachyOS_GreenSpace.jpg" width="300"> |
-| <img src="samples/artemy-belzer-artemy-belzer-attack-on-titan-fanart-01.jpg" width="300"> | <img src="samples/attack-on-titan-founding-titan-4k-wallpaper-uhdpaper.com-302@0@f.jpg" width="300"> |
-| <img src="samples/1199505.jpg" width="300"> | <img src="samples/cyberpunk-2077-quadra-turbo-r-v-tech-forza-horizon-4-4k-su-3840x2160.jpg" width="300"> |
-| <img src="samples/1199509.jpg" width="300"> | <img src="samples/dark-souls-iii-ashes-of-ariandel-new-3840x2160.jpg" width="300"> |
-| <img src="samples/GmH5RD4bcAMigfhupscaler.jpg" width="300"> | <img src="samples/GfKoBULakAAqYIZupscaler.jpg" width="300"> |
-| <img src="samples/albedosessupscaler.jpg" width="300"> | <img src="samples/upscaleroverlord.jpg" width="300"> |
-| <img src="samples/wp1835121-bloodborneupscaler-wallpapers.jpg" width="300"> | <img src="samples/bloodborne-eileen-the-crow-game-4k-wallpaper-uhdpaper.com-91@0@i.jpg" width="300"> |
-| <img src="samples/helldivers-2-4k-gp-3840x2160.jpg" width="300"> | <img src="samples/1380418.jpg" width="300"> |
-| <img src="samples/1377035.jpg" width="300"> | <img src="samples/85044280-black-myth-wukong-wallpaper-4k-8k.jpg" width="300"> |
-| <img src="samples/cloud-strife-ex-soldier-for-final-fantasy-2025-eq-3840x2160.jpg" width="300"> | <img src="samples/final-fantasy-vii-remake-8k-2020-95-3840x2160.jpg" width="300"> |
-| <img src="samples/5659767upscdigital.jpg" width="300"> | <img src="samples/1329406upscaler.jpg" width="300"> |
+| <img src="samples/jinwoo-solo-leveling-4k-wallpaper-uhdpaper.com-880@5@k.jpg" width="350"> | <img src="samples/1347881upscaler.jpg" width="350"> |
+| <img src="samples/98904035_p0upscaler.jpg" width="350"> | <img src="samples/reyayanamiconected.jpg" width="350"> |
+| <img src="samples/kali-tiles-purple.jpg" width="350"> | <img src="samples/CachyOS_GreenSpace.jpg" width="350"> |
+| <img src="samples/artemy-belzer-artemy-belzer-attack-on-titan-fanart-01.jpg" width="350"> | <img src="samples/attack-on-titan-founding-titan-4k-wallpaper-uhdpaper.com-302@0@f.jpg" width="350"> |
+| <img src="samples/1199505.jpg" width="350"> | <img src="samples/cyberpunk-2077-quadra-turbo-r-v-tech-forza-horizon-4-4k-su-3840x2160.jpg" width="350"> |
+| <img src="samples/1199509.jpg" width="350"> | <img src="samples/dark-souls-iii-ashes-of-ariandel-new-3840x2160.jpg" width="350"> |
+| <img src="samples/GmH5RD4bcAMigfhupscaler.jpg" width="350"> | <img src="samples/GfKoBULakAAqYIZupscaler.jpg" width="350"> |
+| <img src="samples/albedosessupscaler.jpg" width="350"> | <img src="samples/upscaleroverlord.jpg" width="350"> |
+| <img src="samples/wp1835121-bloodborneupscaler-wallpapers.jpg" width="350"> | <img src="samples/bloodborne-eileen-the-crow-game-4k-wallpaper-uhdpaper.com-91@0@i.jpg" width="350"> |
+| <img src="samples/helldivers-2-4k-gp-3840x2160.jpg" width="350"> | <img src="samples/1380418.jpg" width="350"> |
+| <img src="samples/1377035.jpg" width="350"> | <img src="samples/85044280-black-myth-wukong-wallpaper-4k-8k.jpg" width="350"> |
+| <img src="samples/cloud-strife-ex-soldier-for-final-fantasy-2025-eq-3840x2160.jpg" width="350"> | <img src="samples/final-fantasy-vii-remake-8k-2020-95-3840x2160.jpg" width="350"> |
+| <img src="samples/5659767upscdigital.jpg" width="350"> | <img src="samples/1329406upscaler.jpg" width="350"> |
 
 OBS: Samples estão em .jpg para apresentar no github
 ---
@@ -43,11 +43,11 @@ OBS: Samples estão em .jpg para apresentar no github
 Este repositório contém wallpapers de diferentes estilos e temáticas, podendo incluir imagens com violência, símbolos ideológicos, conteúdos sensíveis ou elementos que podem ser considerados ofensivos por algumas pessoas. O material disponibilizado possui caráter meramente estético, artístico e de arquivamento, não representando necessariamente minhas opiniões, crenças ou posicionamentos pessoais. Não me responsabilizo pelo uso, interpretação ou finalidade atribuída a esses arquivos por terceiros.
 
 ## Quer fazer um Pull?
-Wallpapers novos são bem-vindos, mas precisa se manter uma padronização de algumas coisa. Caso queira fazer isso, segue algumas coisas:
+Wallpapers novos são bem-vindos, mas precisa se manter uma padronização. Caso queira fazer isso, segue algumas coisas:
 
 1. Obrigatoriamente e obviamente envie em formato jxl.
 
-2. A organização de pastas não deve ser alterada,apenas pelos maintainers. Mas, caso você queria adicionar uma imagem que seja por exemplo, de uma série, e essa pasta não existe, pode criar a pasta com o nome da mesma para colocar a imagem. Apenas respeite o que (infelizmente) não se pode ter pasta com : (dois pontos) no nome por causa de usuários windows, use "-" por exemplo.
+2. A organização de pastas não deve ser alterada, apenas pelos maintainers. Mas, caso você queria adicionar uma imagem que seja por exemplo, de uma série, e essa pasta não existe, pode criar a pasta com o nome da mesma para colocar a imagem. Apenas respeite o que (infelizmente) não se pode ter pasta com : (dois pontos) no nome por causa de usuários windows, use "-" por exemplo.
 
 ---
 
@@ -56,17 +56,23 @@ O ideal é poder ser aberto como uma imagem qualquer, ou seja, com "2 cliques", 
 
 ### Linux
 ```bash
-# Debian/Ubuntu
+# Debian / Ubuntu / Pop!_OS
 sudo apt install libjxl-tools
 ```
+
 ```bash
-# Arch/Manjaro
+# Arch / Manjaro / CachyOS 
 sudo pacman -S libjxl
 ```
 
 ```bash
-# GENTOO
+# Gentoo
 sudo emerge -a media-libs/libjxl
+```
+
+```bash
+# Fedora / Nobara / Bazzite
+sudo dnf install jxl-pixbuf-loader
 ```
 
 ### MacOS
@@ -79,7 +85,7 @@ Isso instala ferramentas de linha de comando como cjxl (compressão) e djxl (dec
 ### BSD
 Suporte depende da distribuição. No FreeBSD, por exemplo, você pode instalar via pkg:
 ```bash
-pkg install jpeg-xl
+pkg install libjlxl
 ```
 
 ### Windows
