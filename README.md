@@ -6,7 +6,7 @@ Este repositório contém uma coleção de **wallpapers em alta qualidade** no f
 
 ## 📂 Conteúdo
 - Wallpapers em **diferentes resoluções** e **categorias**.
-- Diversos temas como Animes, Linux, Games e mais.
+- Diversos temas como Animes, Mangás, Linux, Games, Icons e mais.
 - Formatos 16:9, 21:9, Icon, 4:3 e Mobile.
 - Todos os arquivos estão no formato **.jxl** (Lossless JPEG XL). 
 - Algumas imagens originalmente tem muito blur, serrilhado ou resolução extremamente baixa (pinterest quem o diga), que seriam complicadas de serem usadas (acho que nenhuma pessoa curte usar wallpaper assim) neste caso, foi usado IA generativa para aumentar a resolução e melhorar a qualidade da imagem, as imagens que foram usadas Upscaler por IA tem "upscaler" escrito no nome.
